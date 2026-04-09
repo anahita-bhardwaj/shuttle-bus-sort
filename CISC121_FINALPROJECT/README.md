@@ -34,7 +34,7 @@ Merge Sort keeps on splitting the lists in half and merging them back together. 
 - Process: the app makes sure the input is in the proper format, and it runs merge sort, and then it records each merge step to be outputted later
 - Output: the output is each step in one box and the final ranking, plus the shuttle recommendation in another box so it is visually appealing and organized for the user
 
-**Flowchart:**
+## Flowchart:
 <img width="573" height="759" alt="image" src="https://github.com/user-attachments/assets/ceebb4f7-b84d-4385-abbb-169f39a25cca" />
 
 
