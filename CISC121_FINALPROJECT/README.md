@@ -54,4 +54,4 @@ Merge Sort keeps on splitting the lists in half and merging them back together. 
 - https://www.youtube.com/watch?v=MJgHs9cvbfA
 - https://www.w3schools.com/colors/colors_picker.asp
 - Used Gemini to help me format it in Gradio to make it look nicer: https://gemini.google.com/app/f8df4665924e89c1
-- https://gemini.google.com/app/1f313ffd692bfa98 
+- Also used Gemini to help me get the Hugging Face Space link: https://gemini.google.com/app/1f313ffd692bfa98 
