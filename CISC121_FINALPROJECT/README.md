@@ -37,13 +37,23 @@ Merge Sort keeps on splitting the lists in half and merging them back together. 
 ## Flowchart:
 <img width="573" height="759" alt="image" src="https://github.com/user-attachments/assets/ceebb4f7-b84d-4385-abbb-169f39a25cca" />
 
-
 ## Steps to Run:
 1. First make sure that Python is installed because I will be using VS Code
 2. Create a project folder and then open a terminal in that folder
 3. Run 'py -m pip install gradio' to install gradio
 4. After I write the code I will run 'py app.py' to get a demo launch link
 5. Open the link in my browser and test and debug based off the results
+
+## Testing:
+| Test | Input | Expected Output | Result |
+|------|-------|-----------------|--------|
+| Normal case | Division St 45, Union St 12, Queen's Arc 78, Stauffer Library 30 | Sorted least to most, Queen's Arc recommended | Correct |
+| Two stops | North 10, South 5 | South first, North last | Correct |
+| Already sorted | A 1, B 2, C 3, D 4 | Same order, no change | Correct |
+| Reverse sorted | D 4, C 3, B 2, A 1 | A, B, C, D order | Correct |
+| Empty input | nothing entered | Error: please enter a stop | Correct |
+| Wrong format | Queen's | Error message | Correct |
+| Non number crowd | Library, abc | Error: Not a valid number | Correct |
 
 ## Hugging Face Link
 * https://huggingface.co/spaces/anahita-bhardwaj/shuttle-bus-sort 
