@@ -7,7 +7,9 @@ This app helps decide where to send an extra campus shuttle by ranking stops fro
 **Merge Sort** - I chose Merge Sort because it works by splitting the list in half repeatedly, sorts each half, and then it merges it back together in order, and so this fits this problem well because it can handle any size list reliably and each merge step is easy to show to the user visually. Also, it does not rely on the data being partially sorted already, which makes it a good choice for any set of shuttle stops because in real life nobody is going to take the time to sort each stop from least to most crowded so the app needs to work with that in mind.
 
 ## Demo
-
+<img width="1522" height="686" alt="image" src="https://github.com/user-attachments/assets/ae15e8c1-3c70-46b4-8fa9-0b44a0c14727" />
+<img width="1369" height="346" alt="image" src="https://github.com/user-attachments/assets/0eb78f0e-6704-4c8a-b84c-9f690f280eb6" />
+<img width="1441" height="624" alt="image" src="https://github.com/user-attachments/assets/ca71e110-fa4f-4e18-99a8-b50b1733f142" />
 
 ## The Four Pillars of Computational Thinking
 
@@ -33,6 +35,7 @@ Merge Sort keeps on splitting the lists in half and merging them back together. 
 - Output: the output is each step in one box and the final ranking, plus the shuttle recommendation in another box so it is visually appealing and organized for the user
 
 **Flowchart:**
+<img width="573" height="759" alt="image" src="https://github.com/user-attachments/assets/ceebb4f7-b84d-4385-abbb-169f39a25cca" />
 
 
 ## Steps to Run:
@@ -43,7 +46,7 @@ Merge Sort keeps on splitting the lists in half and merging them back together. 
 5. Open the link in my browser and test and debug based off the results
 
 ## Hugging Face Link
-* 
+* https://huggingface.co/spaces/anahita-bhardwaj/shuttle-bus-sort 
 
 # Sources and AI Acknowledgement:**
 - Merge Sort code concept reviewed from course notes on OnQ
@@ -51,6 +54,4 @@ Merge Sort keeps on splitting the lists in half and merging them back together. 
 - https://www.youtube.com/watch?v=MJgHs9cvbfA
 - https://www.w3schools.com/colors/colors_picker.asp
 - Used Gemini to help me format it in Gradio to make it look nicer: https://gemini.google.com/app/f8df4665924e89c1
-- https://gemini.google.com/app/f8df4665924e89c1
-
-
+- https://gemini.google.com/app/1f313ffd692bfa98 
