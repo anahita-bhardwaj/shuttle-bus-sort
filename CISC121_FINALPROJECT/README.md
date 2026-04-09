@@ -59,6 +59,7 @@ Merge Sort keeps on splitting the lists in half and merging them back together. 
 * https://huggingface.co/spaces/anahita-bhardwaj/shuttle-bus-sort 
 
 ## Sources and AI Acknowledgement:
+- Author of code: Anahita Bhardwaj
 - Merge Sort code concept reviewed from course notes on OnQ
 - https://www.datacamp.com/tutorial/gradio-python-tutorial
 - https://www.youtube.com/watch?v=MJgHs9cvbfA
